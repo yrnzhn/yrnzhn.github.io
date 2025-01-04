@@ -1,0 +1,13 @@
+title: My Tiny Blog
+author: My Name
+description: A minimal Jekyll blog.
+keywords: jekyll, minimal, blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://myusername.github.io"
+
+#social links
+bluesky: myusername
+twitter: myusername
+github: myusername
+linkedin: myusername
+email: test@test.com

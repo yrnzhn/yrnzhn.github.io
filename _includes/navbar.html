@@ -1,0 +1,17 @@
+<nav>
+  {% if site.github %}
+  <a href="https://github.com/{{ site.github }}" target="_blank">GitHub</a>
+  {% endif %}
+  {% if site.linkedin %}
+  <a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank">LinkedIn</a>
+  {% endif %}
+  {% if site.bluesky %}
+  <a href="https://bsky.app/profile/{{ site.bluesky }}" target="_blank">BlueSKY</a>
+  {% endif %}
+  {% if site.twitter %}
+  <a href="https://twitter.com/{{ site.twitter }}" target="_blank">Twitter</a>
+  {% endif %}
+  {% if site.email %}
+  <a href="mailto:{{ site.email }}" target="_blank">{{ site.email }}</a>
+  {% endif %}
+</nav>
