@@ -4,10 +4,9 @@ title: "LGS’ye Kaç Gün Kaldı?"
 date: 2025-01-25 00:00:00 +0000
 ---
 
-# LGS’ye Kaç Gün Kaldı?
 ### LGS Tarihi: 15 Haziran 2025
   
-<p id="countdown" style="text-align: center; font-size: 60px; margin-top: 0px;"></p>
+<p id="countdown" style="text-align: center; font-size: 30px; margin-top: 0px;"></p>
 
 <script>
 // Set the date we're counting down to
