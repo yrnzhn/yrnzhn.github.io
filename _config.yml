@@ -1,13 +1,13 @@
-title: My Tiny Blog
-author: My Name
-description: A minimal Jekyll blog.
-keywords: jekyll, minimal, blog
+title: Yaren OZHAN
+author: Yaren OZHAN
+description: Minimal bir blog.
+keywords: blog, anime, çizim, karakalem, hayvanlar
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://myusername.github.io"
+url: "https://yrnzhn.github.io"
 
 #social links
-bluesky: myusername
-twitter: myusername
-github: myusername
-linkedin: myusername
-email: test@test.com
+#bluesky: myusername
+#twitter: myusername
+#github: myusername
+#linkedin: myusername
+#email: test@test.com
